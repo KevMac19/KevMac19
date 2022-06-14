@@ -4,7 +4,7 @@ Hi 👋 My name is Kevin Macwan
 Mobile App Developer
 --------------------
 
-I've been learning to code for 2 years. I started with HTML but I have really found passion for mobile app development.
+I've been learning to code for 2 years. I started with HTML but I have really found passion for mobile app development with React-Native framework.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kmacwan86@gmail.com](mailto:kmacwan86@gmail.com)
