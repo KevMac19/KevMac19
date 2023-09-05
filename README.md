@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile App Developer
 --------------------
 
-I've been learning to code for 2 years. I started with HTML but I have really found passion for mobile app development with React-Native framework.
+I've been learning to code, initially starting with HTML, but I've discovered a passion for mobile app development using the React-Native framework.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [kevmac19.github.io](http://kevmac19.github.io/)
